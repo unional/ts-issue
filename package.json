@@ -14,7 +14,7 @@
     "react-use-websocket": "^3"
   },
   "devDependencies": {
-    "typescript": "^4.9.4"
+    "typescript": "5.0.0-dev.20230103"
   },
   "packageManager": "pnpm@7.22.0"
 }
