@@ -3,6 +3,7 @@
 To repro:
 
 ```sh
-pnpm i
+pnpm install
 pnpm build
+pnpm test
 ```

@@ -11,10 +11,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "react-use-websocket": "^3"
   },
   "devDependencies": {
+    "@types/react": "^18.0.27",
     "typescript": "5.0.0-dev.20230103"
   },
-  "packageManager": "pnpm@7.22.0"
+  "packageManager": "pnpm@7.26.4"
 }
